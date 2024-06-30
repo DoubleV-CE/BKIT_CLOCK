@@ -1,0 +1,11 @@
+../Core/Src/fsm_clock.c:28:6:clr_confirm	2
+../Core/Src/fsm_clock.c:34:6:update_change_time_state	1
+../Core/Src/fsm_clock.c:43:6:input_pass_num	21
+../Core/Src/fsm_clock.c:106:6:input_pass	11
+../Core/Src/fsm_clock.c:143:6:check_time	19
+../Core/Src/fsm_clock.c:184:6:update_pass	2
+../Core/Src/fsm_clock.c:190:6:input_process	55
+../Core/Src/fsm_clock.c:407:6:check_inc_min	3
+../Core/Src/fsm_clock.c:428:6:check_alarm_over	6
+../Core/Src/fsm_clock.c:455:6:process_time	56
+../Core/Src/fsm_clock.c:592:6:fsm_clock	10
